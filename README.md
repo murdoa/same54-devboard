@@ -3,7 +3,7 @@
 - USB Host / Device
 - USB Serial (CP2102) 
 - SDHC Interface
-- 100BASE-T Ethernet
+- 100BASE-T Ethernet (KSZ8091RNA PHY)
 - QSPI with W25N01GV footprint (1Gb flash)
 - Cortex M ISP header
 - 4 Indicator LEDs
