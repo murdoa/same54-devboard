@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2019-11-25T02:20:11Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.5.1"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 0.77,
+        "LayerNumber": 4,
+        "Name": {
+            "ProjectId": "SAME54-Dev"
+        },
+        "Owner": "Aodhan Murray <aodhan.murray@me.com>",
+        "Size": {
+            "X": 100,
+            "Y": 85
+        }
+    }
+}
