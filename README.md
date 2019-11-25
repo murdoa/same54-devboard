@@ -29,5 +29,7 @@
 | Layer 1 | Layer 2 |
 |:----:|:----:|
 |![Layer 1 Copper Image](Images/L1.png)|  ![Layer 2 Copper Image](Images/L2.png)|
+
 | Layer 3 | Layer 4 |
+|:----:|:----:|
 |![Layer 3 Copper Image](Images/L3.png)|  ![Layer 4 Copper Image](Images/L4.png)|
