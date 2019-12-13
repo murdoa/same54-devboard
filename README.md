@@ -1,5 +1,7 @@
 # SAM-E54 Development Board
-## Features
+### Summary 
+Development Board based around the Atmel SAME54 MCU exposing peripherals such as USB Host/Device, USB Serial, 100BASE-T Ethernet, SDHC and a QSPI with 1Gb flash.
+### Features
 - USB Host / Device
 - USB Serial (CP2102) 
 - SDHC Interface
