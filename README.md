@@ -14,7 +14,7 @@ Development Board based around the Atmel SAME54 MCU exposing peripherals such as
 
 
 ## Finished Board
-![Finished PCB Image](Images/FinishedBoard.png)
+![Finished PCB Image](Images/Final.png)
 
 ## PCB Stackup
 | Layer | Material | Thickness |

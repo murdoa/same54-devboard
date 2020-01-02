@@ -10,7 +10,7 @@ Development Board based around the Atmel SAME54 MCU exposing peripherals such as
 
 ### Images
  - [Images/Final.png] Final assembled PCB
- - [Images/Finished-DaughterBoard.png] Assembled ADC daughter board.
+ - [Images/FinishedDaughterBoard.png] Assembled ADC daughter board.
 
 ### Post 
 
